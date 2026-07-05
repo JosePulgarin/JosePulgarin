@@ -2,7 +2,7 @@
 
 ![Banner de Jose](Banner_final.png)
 
-## Mis redes y un poco de mí
+## About me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jose-manuel-pulgarin-83a8b741a" target="_blank">
@@ -21,7 +21,7 @@ I am a Systems Engineering student at ITM in Medellín, Colombia.
 
 Throughout my academic training, I have developed various technical projects. Currently, my primary backend language is Java, combined with MariaDB. Thanks to this, along with my frontend skills, I am currently building high-impact projects for the near future. My main strengths are dedication and a passion for software development. If you are interested in my profile, feel free to contact contact me!
 
-## Tecnologias 💻
+## Skills 💻
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
