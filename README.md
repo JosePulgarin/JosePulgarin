@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" /> Welcome to my Profile
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="PC Coding Sticker" width="60" height="60" /> Welcome to my Profile! 
 
 ![Banner de Jose](Banner_final.png)
 
