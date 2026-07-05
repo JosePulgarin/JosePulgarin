@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="PC Coding Sticker" width="65" height="60" />Welcome to my Profile! 
+# Welcome to my Profile! <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="Laptop Icon" width="40" height="40" align="center" />
 
 ![Banner de Jose](Banner_final.png)
 
