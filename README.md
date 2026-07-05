@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="150" height="150" /> Welcome to my Profile
 
-![Banner de Jose](Banner_nuevo.png)
+![Banner de Jose](Banner_final.png)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/18zjwjJfRX/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -30,4 +30,3 @@ Throughout my academic training, I have developed various technical projects. Cu
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Mis Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePulgarin&layout=compact&theme=transparent)
