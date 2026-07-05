@@ -1,6 +1,8 @@
-# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="PC Coding Sticker" width="65" height="60" /> Welcome to my Profile! 
+# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="PC Coding Sticker" width="65" height="60" />Welcome to my Profile! 
 
 ![Banner de Jose](Banner_final.png)
+
+## Mis redes y un poco de mí
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jose-manuel-pulgarin-83a8b741a" target="_blank">
