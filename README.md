@@ -1,4 +1,4 @@
-# Welcome to my Profile! <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="Laptop Icon" width="40" height="40" align="center" />
+<h1 align="center">Welcome to my Profile! <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" alt="Laptop Icon" width="40" height="40" align="center" /></h1>
 
 ![Banner de Jose](Banner_final.png)
 
